@@ -1,8 +1,8 @@
-Quiz Application
+#Quiz Application
 
 This React-based quiz application challenges users with 10 multiple-choice questions across various topics. It features a timer and is designed for full-screen mode to enhance the testing experience.
 
-Key Features
+#Key Features
 
 Questions: 10 curated multiple-choice questions to test your knowledge.
 Timer: A countdown timer, changing to red when one minute is left.
