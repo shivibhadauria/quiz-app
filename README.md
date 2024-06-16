@@ -22,7 +22,12 @@ Deployment
 The application is deployed on Vercel, ensuring fast and reliable access. You can view the live quiz application at .
 
 Instructions
+
 Click the link to start the quiz.
+
 Ensure full-screen mode is enabled for the best experience.
+
 Answer all questions within the 10-minute limit.
+
 Review your score and answers on the results page.
+
