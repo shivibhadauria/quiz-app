@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which keyword is used to define a class in C++?",
+    "options": ["class", "struct", "object", "function"],
+    "correctAnswer": "class"
+  },
+  {
+    "question": "What is the extension of Python files?",
+    "options": [".py", ".cpp", ".java", ".js"],
+    "correctAnswer": ".py"
+  },
+  {
+    "question": "Which of these is a loop control statement in C++?",
+    "options": ["break", "continue", "return", "all of the above"],
+    "correctAnswer": "all of the above"
+  },
+  {
+    "question": "What is the output of `print(2 + 3)` in Python?",
+    "options": ["5", "23", "7", "None of the above"],
+    "correctAnswer": "5"
+  },
+  {
+    "question": "How do you start a comment in Python?",
+    "options": ["//", "/*", "#", "--"],
+    "correctAnswer": "#"
+  },
+  {
+    "question": "What is the default value of an integer in C++?",
+    "options": ["0", "NULL", "Undefined", "1"],
+    "correctAnswer": "0"
+  },
+  {
+    "question": "Which symbol is used for addition in Python?",
+    "options": ["-", "+", "*", "/"],
+    "correctAnswer": "+"
+  },
+  {
+    "question": "What keyword is used to define a function in C++?",
+    "options": ["func", "define", "void", "function"],
+    "correctAnswer": "void"
+  },
+  {
+    "question": "Which of the following is a Python data structure?",
+    "options": ["list", "string", "tuple", "all of the above"],
+    "correctAnswer": "all of the above"
+  },
+  {
+    "question": "What is the correct way to print in C++?",
+    "options": ["print()", "cout", "echo", "printf"],
+    "correctAnswer": "cout"
+  }
+]
